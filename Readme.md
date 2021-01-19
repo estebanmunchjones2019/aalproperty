@@ -26,11 +26,11 @@ The first step was to get a [LightHouse](https://developers.google.com/web/tools
 
 ## Screenshots
 
-Lighthouse report screen shot **before** the work:
+Lighthouse report screenshot **before** the work:
 
 ![](images/lighthouse1.jpg)
 
-Lighthouse report screen shot **after** the work:
+Lighthouse report screenshot **after** the work:
 
 ![](images/lighthouse2.jpg)
 
